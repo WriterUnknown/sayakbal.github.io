@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Understanding DFT for Beginners",
+    "author": "Sayak",
+    "date": "Apr 01, 2024",
+    "thumbnail": "../uploads/blog-04.jpg",
+    "link": "blog-post-4.html"
+  },
+  {
+    "title": "How QMC Enhances Simulation Accuracy",
+    "author": "Sayak",
+    "date": "May 10, 2024",
+    "thumbnail": "../uploads/blog-05.jpg",
+    "link": "blog-post-5.html"
+  },
+  {
+    "title": "Lessons from Developing a GNN for Alloys",
+    "author": "Sayak",
+    "date": "Jun 21, 2024",
+    "thumbnail": "../uploads/blog-06.jpg",
+    "link": "blog-post-6.html"
+  }
+]
